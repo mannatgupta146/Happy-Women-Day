@@ -2,7 +2,12 @@ import { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import confetti from 'canvas-confetti';
 import './App.css';
+
+
 import womenDayImage from './assets/image.png';
+
+// Usage in component
+<img src={womenDayImage} className="main-image" />
 
 const FrontDesign = () => {
   return (
