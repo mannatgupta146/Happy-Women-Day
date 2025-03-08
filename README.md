@@ -1,12 +1,49 @@
-# React + Vite
+# 💐Happy Women's Day - Celebration Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful interactive greeting card to celebrate the strength, resilience, and achievements of women worldwide.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [View Card](https://mannatgupta146.github.io/Happy-Women-Day/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Card Preview](./src/assets/ss.png)
+ 
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- **3D Flip Animation** - Smooth card rotation effect
+- **Dynamic Elements** - Floating petals and hearts
+- **Confetti Celebration** - Interactive particle effect
+- **Responsive Design** - Works on all screen sizes
+- **Modern UI** - Clean and elegant typography
+- **Performance Optimized** - 60 FPS animations
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React 18
+- Vite 4
+- Framer Motion (Animations)
+- Canvas Confetti
+- CSS3 (Custom Properties, Gradients)
+- GitHub Pages (Deployment)
+
+## 🌸 Project Highlights
+
+- **Interactive Design**  
+  Click to flip card and reveal heartfelt message
+- **Accessibility**  
+  Semantic HTML and ARIA labels
+- **Modern Tooling**  
+  Built with Vite for fast development
+- **Cross-browser**  
+  Works on Chrome, Firefox, Safari, Edge
+
+## 🤝 How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+
+---
+ 
+Celebrating the incredible women of the world! 🎀 
