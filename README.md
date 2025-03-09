@@ -1,4 +1,4 @@
-# 💐Happy Women's Day - Celebration Card
+# Happy Women's Day 💐- Celebration Card
 
 A beautiful interactive greeting card to celebrate the strength, resilience, and achievements of women worldwide.
 
@@ -6,7 +6,7 @@ A beautiful interactive greeting card to celebrate the strength, resilience, and
 
 ![Card Preview](./src/assets/ss.png)
  
-## 🌟 Features
+## Features
 
 - **3D Flip Animation** - Smooth card rotation effect
 - **Dynamic Elements** - Floating petals and hearts
@@ -15,7 +15,7 @@ A beautiful interactive greeting card to celebrate the strength, resilience, and
 - **Modern UI** - Clean and elegant typography
 - **Performance Optimized** - 60 FPS animations
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React 18
 - Vite 4
@@ -24,7 +24,7 @@ A beautiful interactive greeting card to celebrate the strength, resilience, and
 - CSS3 (Custom Properties, Gradients)
 - GitHub Pages (Deployment)
 
-## 🌸 Project Highlights
+## Project Highlights
 
 - **Interactive Design**  
   Click to flip card and reveal heartfelt message
@@ -35,7 +35,7 @@ A beautiful interactive greeting card to celebrate the strength, resilience, and
 - **Cross-browser**  
   Works on Chrome, Firefox, Safari, Edge
 
-## 🤝 How to Contribute
+## How to Contribute
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -46,4 +46,4 @@ A beautiful interactive greeting card to celebrate the strength, resilience, and
 
 ---
  
-Celebrating the incredible women of the world! 🎀 
+Celebrating the incredible women of the world! 🎀🌸 
